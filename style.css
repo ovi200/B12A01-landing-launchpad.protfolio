@@ -24,7 +24,8 @@ body{
 
 .logo {
     color: rgb(50, 50, 247);
-    font-weight: bolder
+    font-weight: bolder;
+    padding-bottom: 19px;
 }
 
 .btn {
