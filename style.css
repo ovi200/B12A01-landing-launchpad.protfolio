@@ -42,3 +42,148 @@
     padding-bottom: 100px;
 
 }
+.action {
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 40px 100px 40px;
+    margin: 100px 40px 50px 40px;
+    height: 300px;
+    padding: 20px 100px 20px 100px;
+    padding: 20px 80px 20px 80px;
+
+
+}
+
+.spn {
+    line-height: 0%;
+    align-items: center;
+    padding-top: 300px;
+    color: rgb(107, 100, 100);
+}
+
+.image {
+    width: 250px;
+    height: auto;
+    border: none;
+    border-radius: 20px;
+}
+.display {
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+
+
+.productive {
+    background-color: rgb(224, 224, 243);
+    margin: 0px 100px 0px 100px;
+    height: 300px;
+    padding: 20px 80px 20px 80px;
+    border-radius: 20px;
+    width: 100%;
+    height: auto;
+}
+
+.text-1 {
+    align-items: center;
+    font-weight: 800;
+}
+
+.line {
+    line-height: 0%;
+}
+
+.text-2 {
+    font-size: 50px;
+    color: rgb(50, 50, 247);
+    ;
+}
+
+.rate {
+    color: rgb(88, 83, 83)
+}
+
+
+
+
+
+
+.quantity {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+
+}
+
+
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 70px;
+    margin: 0 10px 0 10px;
+
+}
+
+.designers {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 40px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+}
+
+.reviewer {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-top: 15 px;
+
+}
+
+.reviewer img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.textcolor-1 {
+    color: rgb(43, 40, 40);
+}
+
+.textcolor-2 {
+    color: rgb(65, 59, 59);
+}
+
+.mini {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(224, 224, 243);
+    flex-direction: column;
+    align-items: center;
+    height: 450px;
+    ;
+    border-radius: 20px;
+    margin: 50px 100px 50px 100px;
+    padding: 0 100px 0 100px;
+
+}
+
+.focus {
+    text-align: center;
+}
+
+.image1 {
+    width: 500px;
+    height: 250px;
+    border-radius: 20px;
+    padding-top: 0px;
+}
